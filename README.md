@@ -8,7 +8,7 @@ For more information, please visit the wiki: https://wiki.archlinux.org/title/in
 *Before installing a virtual machine, reboot your PC in BIOS or UEFI mode and verify that virtualization for your CPU is enabled, otherwise your virtual machine will not boot on launch.*
 
 > # Installing Arch Linux
-1. Open VMware Workstation and create a new workstation, select **“Installer disc image file (iso)”** and set the path to the location of your ~archlinux.iso~ file which you can download from the wiki page. Hit next and select **“Linux”** as the Guest operating system, and **“Other Linux 5.x and kernel 64-bit"** for version and hit next. Give your Virtual Machine a name and hit next again.
+1. Open VMware Workstation and create a new workstation, select **“Installer disc image file (iso)”** and set the path to the location of your **archlinux.iso** file which you can download from the wiki page. Hit next and select **“Linux”** as the Guest operating system, and **“Other Linux 5.x and kernel 64-bit"** for version and hit next. Give your Virtual Machine a name and hit next again.
 
 2. Set your disk capacity to 20GB of storage, or however much space you wish to use, and keep the setting **“Split virtual disk into multiple files”** highlighted and hit next. Then select **“Customize Hardware”** on the settings window and set your RAM to 2GB, afterwards hit finish. Remember, your selected RAM will be double the space for swap memory.
    > **NOTE, depending on the RAM size in your PC, it will allow you to run more RAM memory than suggested. In case a mistake is made you can always increase or decrease the size of RAM in the options settings after installation.**
