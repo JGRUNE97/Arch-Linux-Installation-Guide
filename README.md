@@ -42,3 +42,4 @@ For more information, please visit the wiki: https://wiki.archlinux.org/title/in
    > **NOTE! A symbolic link will be required in order to access VIM and VISUDIO since the program is not installed by default and will require a direct link to the path ‘/usr/bin/vi’ directory.**
 
 This marks the end of the installation for Arch Linux with its DE, please refer to the author if you have any questions in regards to the guide and I will answer them as best as I can. Thank you and I hope you enjoy your now new Arch-Linux machine.
+![Screenshot](https://i.postimg.cc/cHYrYhbV/proofconcept.jpg "Arch Linux connected to Harvey at Utulsa.")
